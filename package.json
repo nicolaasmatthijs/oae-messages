@@ -1,5 +1,6 @@
 {
     "name" : "oae-messages",
     "version": "0.0.1",
-    "description": "Sakai OAE Messages Module"
+    "description": "Sakai OAE Messages Module",
+    "main": "./lib/api.js"
 }
